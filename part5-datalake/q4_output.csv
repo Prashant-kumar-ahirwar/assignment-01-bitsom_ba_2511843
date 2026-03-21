@@ -1,0 +1,101 @@
+name,order_date,product_name,quantity
+Rohan Gupta,2023-01-01,Face Wash,5
+Arjun Singh,2023-01-07,Basmati Rice 5kg,4
+Pooja Nair,2023-01-10,Wireless Earbuds,1
+Amit Tiwari,2023-01-15,Yoga Mat,3
+Rohan Mehta,2023-02-03,Wireless Earbuds,1
+Pooja Nair,2023-02-05,Cotton Kurti,4
+Pooja Nair,2023-02-05,Mechanical Keyboard,2
+Pooja Nair,2023-02-05,Cotton Kurti,2
+Pooja Sharma,2023-02-10,Denim Jeans,4
+Suresh Menon,2023-02-13,Face Wash,2
+Suresh Menon,2023-02-13,Yoga Mat,5
+Suresh Menon,2023-02-13,Mechanical Keyboard,5
+Kiran Chopra,2023-02-15,Desk Lamp,1
+Kiran Chopra,2023-02-15,Mechanical Keyboard,2
+Riya Verma,2023-02-19,Denim Jeans,2
+Riya Verma,2023-02-19,Cotton Kurti,5
+Riya Verma,2023-02-19,Basmati Rice 5kg,1
+Arjun Verma,2023-03-08,Cotton Kurti,1
+Aarav Desai,2023-03-24,Denim Jeans,5
+Kavya Joshi,2023-03-30,Denim Jeans,5
+Amit Desai,2023-03-30,Running Shoes,3
+Kavya Joshi,2023-03-30,Cotton Kurti,3
+Arjun Singh,2023-03-30,Basmati Rice 5kg,5
+Kavya Joshi,2023-03-30,Yoga Mat,4
+Lakshmi Kumar,2023-04-01,Yoga Mat,3
+Lakshmi Kumar,2023-04-01,Mechanical Keyboard,5
+Amit Iyer,2023-04-08,Yoga Mat,1
+Amit Iyer,2023-04-08,Yoga Mat,4
+Divya Joshi,2023-04-14,Wireless Earbuds,2
+Neha Joshi,2023-04-24,Denim Jeans,4
+Neha Joshi,2023-05-08,Mechanical Keyboard,1
+Neha Joshi,2023-05-08,Denim Jeans,1
+Neha Joshi,2023-05-08,Denim Jeans,5
+Neha Joshi,2023-05-08,Running Shoes,4
+Suresh Menon,2023-05-13,Desk Lamp,5
+Pooja Sharma,2023-05-20,Desk Lamp,3
+Sneha Patel,2023-05-21,Face Wash,2
+Vikram Singh,2023-05-30,Python Book,1
+Amit Desai,2023-06-01,Face Wash,3
+Suresh Menon,2023-06-07,Desk Lamp,4
+Aarav Desai,2023-06-07,Mechanical Keyboard,4
+Priya Reddy,2023-06-16,Cotton Kurti,4
+Neha Sharma,2023-06-19,Running Shoes,5
+Rohan Joshi,2023-06-27,Face Wash,3
+Vikram Singh,2023-06-27,Basmati Rice 5kg,1
+Vikram Singh,2023-06-27,Desk Lamp,1
+Kavya Sharma,2023-07-03,Denim Jeans,5
+Vikram Singh,2023-07-10,Face Wash,2
+Meera Iyer,2023-07-15,Wireless Earbuds,3
+Amit Iyer,2023-08-01,Running Shoes,4
+Sneha Patel,2023-08-17,Yoga Mat,1
+Sneha Patel,2023-08-17,Denim Jeans,4
+Sneha Patel,2023-08-17,Wireless Earbuds,1
+Amit Iyer,2023-08-18,Face Wash,2
+Amit Iyer,2023-08-18,Desk Lamp,4
+Kiran Chopra,2023-08-22,Basmati Rice 5kg,5
+Kiran Chopra,2023-08-22,Cotton Kurti,1
+Suresh Patel,2023-08-23,Basmati Rice 5kg,2
+Suresh Patel,2023-08-23,Mechanical Keyboard,3
+Suresh Patel,2023-08-23,Mechanical Keyboard,3
+Suresh Patel,2023-08-23,Basmati Rice 5kg,4
+Pooja Rao,2023-08-25,Basmati Rice 5kg,1
+Riya Reddy,2023-08-27,Face Wash,1
+Riya Reddy,2023-08-27,Yoga Mat,5
+Riya Reddy,2023-08-27,Basmati Rice 5kg,3
+Riya Reddy,2023-08-27,Yoga Mat,1
+Neha Joshi,2023-09-01,Running Shoes,3
+Neha Joshi,2023-09-01,Denim Jeans,1
+Neha Joshi,2023-09-01,Desk Lamp,1
+Pooja Sharma,2023-09-02,Cotton Kurti,3
+Pooja Sharma,2023-09-02,Denim Jeans,2
+Lakshmi Kumar,2023-09-07,Cotton Kurti,4
+Suresh Nair,2023-09-09,Face Wash,4
+Suresh Nair,2023-09-09,Denim Jeans,5
+Suresh Nair,2023-09-09,Mechanical Keyboard,1
+Amit Iyer,2023-09-15,Basmati Rice 5kg,4
+Amit Iyer,2023-09-15,Python Book,3
+Amit Tiwari,2023-09-16,Face Wash,4
+Rohan Gupta,2023-09-24,Yoga Mat,1
+Riya Verma,2023-09-26,Yoga Mat,4
+Riya Verma,2023-09-26,Python Book,4
+Aditya Shah,2023-09-27,Face Wash,2
+Aditya Shah,2023-09-27,Python Book,4
+Neha Shah,2023-10-01,Desk Lamp,1
+Rohan Pillai,2023-10-06,Cotton Kurti,4
+Rohan Pillai,2023-10-06,Desk Lamp,3
+Sneha Mehta,2023-10-27,Denim Jeans,2
+Amit Tiwari,2023-10-28,Cotton Kurti,4
+Divya Joshi,2023-10-31,Cotton Kurti,2
+Neha Joshi,2023-11-04,Running Shoes,4
+Sneha Patel,2023-11-05,Running Shoes,1
+Neha Shah,2023-11-24,Python Book,5
+Neha Shah,2023-11-24,Python Book,5
+Neha Shah,2023-11-24,Denim Jeans,1
+Aarav Desai,2023-11-24,Desk Lamp,5
+Kiran Chopra,2023-12-05,Running Shoes,4
+Kiran Chopra,2023-12-05,Denim Jeans,4
+Aarav Sharma,2023-12-17,Wireless Earbuds,5
+Vikram Singh,2023-12-21,Yoga Mat,2
+Neha Sharma,2023-12-31,Wireless Earbuds,5
