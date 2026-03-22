@@ -1,4 +1,4 @@
-// open mongodb and create database {with any name} and create a collection name {product}
+// open mongodb and create database {with any name} and create a collection name {products}
 
 // OP1: insertMany() – insert all 3 documents
 
